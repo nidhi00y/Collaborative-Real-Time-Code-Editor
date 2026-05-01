@@ -149,10 +149,12 @@ html, body {
   font-size: 14px;
   transition: all 0.2s ease;
   font-family: inherit;
+  padding-left: 10%;
 }
 
 .form-group input::placeholder {
   color: #64748b;
+  padding-left: 2%;
 }
 
 .form-group input:focus {
