@@ -106,11 +106,7 @@ function Home() {
 				<div className="sidebar-bottom">
 					<button className="sidebar-nav-item" type="button">
 						<span className="nav-icon">▣</span>
-						<span>Docs</span>
-					</button>
-					<button className="sidebar-nav-item" type="button">
-						<span className="nav-icon">▭</span>
-						<span>Console</span>
+						<span>Logout</span>
 					</button>
 				</div>
 			</aside>
